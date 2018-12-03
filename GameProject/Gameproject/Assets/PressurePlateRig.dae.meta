@@ -7,12 +7,10 @@ ModelImporter:
     100002: Cylinder
     100004: Plane
     100006: //RootNode
-    100008: Sun
     400000: Circle
     400002: Cylinder
     400004: Plane
     400006: //RootNode
-    400008: Sun
     2100000: Material_002
     2100002: Material_001
     2300000: Circle
@@ -24,7 +22,6 @@ ModelImporter:
     4300000: Plane
     4300002: Circle
     4300004: Cylinder
-    10800000: Sun
   externalObjects: {}
   materials:
     importMaterials: 1
