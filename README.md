@@ -1,5 +1,1 @@
-# FrontHD
-
-## Planer
-
-* [Planer & ideer](Planer.ideer.md)
+* [readme](readme.md)
